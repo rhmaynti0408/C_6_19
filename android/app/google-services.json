@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1668871827",
+    "project_id": "fir-scarlett-shop",
+    "storage_bucket": "fir-scarlett-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1668871827:android:80cd4dd71ecd194a133f66",
+        "android_client_info": {
+          "package_name": "com.example.Scarlett_Shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1668871827-tldss6gqulicpi00hjq4p7l4pqkj459p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHy1jXZGksiNQOwT5O9upqDWRwscBpCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1668871827-tldss6gqulicpi00hjq4p7l4pqkj459p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
